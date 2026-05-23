@@ -1,0 +1,34 @@
+---
+description: Six-Day Development Cycle — sustainable shipping cadence with bounded work, intentional phases, and mandatory rest. Never 7-day weeks.
+alwaysApply: false
+---
+
+# Six-Day Cycle
+
+## The cycle
+
+| Day | Focus |
+|---|---|
+| 1 | Ideate & Research |
+| 2 | Design & Plan |
+| 3-4 | Build |
+| 5 | Test & Polish |
+| 6 | Launch |
+| Rest | Integrate, celebrate, prepare |
+
+## Principles
+
+- Rest is part of the work. Never 7-day weeks.
+- Sustainable pace beats heroic sprints.
+- Bounded work; intentional phase transitions.
+
+## Scales
+
+The pattern scales: 1-hour, 3-day, 6-day, 2-week cycles all work. Pick what fits the context.
+
+## Anti-patterns
+
+- Borrowing rest day "just this once"
+- Stacking cycles without rest between
+- Treating rest as "catch up on chores"
+- All days as build days (no research, no polish)
