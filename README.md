@@ -1,6 +1,23 @@
-# Six-Day Cycle Skills
+<p align="center">
+  <img src="https://ormus.solutions/mascot/chain_braces_to_swan.gif" alt="Six-Day Cycle Skills" width="128" style="image-rendering: pixelated;" />
+</p>
 
-> A single `CLAUDE.md` for sustainable shipping cadence. Six days of work mapped to Hermetic principles, mandatory rest, no 7-day weeks. Burnout-aware development rhythm.
+<h1 align="center">Six-Day Cycle Skills</h1>
+
+<p align="center">
+  <em>A CLAUDE.md for sustainable shipping cadence — 6 days of work mapped to Hermetic principles, mandatory rest, no 7-day weeks. Burnout-aware development rhythm.</em>
+</p>
+
+<p align="center">
+  <a href="https://github.com/HermeticOrmus/six-day-cycle-skills/stargazers"><img src="https://img.shields.io/github/stars/HermeticOrmus/six-day-cycle-skills?style=flat-square&color=aa8142" alt="Stars" /></a>
+  <a href="https://github.com/HermeticOrmus/six-day-cycle-skills/blob/main/LICENSE"><img src="https://img.shields.io/github/license/HermeticOrmus/six-day-cycle-skills?style=flat-square&color=aa8142" alt="License" /></a>
+  <a href="https://github.com/HermeticOrmus/six-day-cycle-skills/commits"><img src="https://img.shields.io/github/last-commit/HermeticOrmus/six-day-cycle-skills?style=flat-square&color=aa8142" alt="Last Commit" /></a>
+  <img src="https://img.shields.io/badge/Claude_Code-aa8142?style=flat-square&logo=anthropic&logoColor=white" alt="Claude Code" />
+</p>
+
+---
+
+> **A single `CLAUDE.md` for sustainable shipping cadence. Six days of work mapped to Hermetic principles, mandatory rest, no 7-day weeks. Burnout-aware development rhythm.**
 
 ## Why
 
